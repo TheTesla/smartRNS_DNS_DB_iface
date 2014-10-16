@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1412874411 source:/home/stefan/smartRNS_DNS_DB_iface/main.cpp
+	<iostream>
+	<postgresql/libpq-fe.h>
+	<string>
+	<algorithm>
+	<fstream>
+
+1413417360 source:/home/stefan/smartRNS_DNS_DB_iface/DNSpgDBiface.cpp
+	"DNSpgDBiface.h"
+
+1413417334 /home/stefan/smartRNS_DNS_DB_iface/DNSpgDBiface.h
+	<iostream>
+	<postgresql/libpq-fe.h>
+	<string>
+	<algorithm>
+	<fstream>
+
